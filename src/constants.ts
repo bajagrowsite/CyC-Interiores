@@ -1,22 +1,40 @@
+import logo from './assets/logo_negro.png';
+import p1 from './assets/p1.jpg';
+import p2 from './assets/p2.jpg';
+import p3 from './assets/p3.jpg';
+import p4 from './assets/p4.jpg';
+import p5 from './assets/p5.jpg';
+import p6 from './assets/p6.jpg';
+import p7 from './assets/p7.jpg';
+import p8 from './assets/p8.jpg';
+import p9 from './assets/p9.jpg';
+import p10 from './assets/p10.jpg';
+import p11 from './assets/p11.jpg';
+import p12 from './assets/p12.jpg';
+import p13 from './assets/p13.jpg';
+import p14 from './assets/p14.jpg';
+import p15 from './assets/p15.jpg';
+import p16 from './assets/p16.jpg';
+
 export const IMAGES = {
-  LOGO: "/logo_negro.png", 
-  HERO: "/p1.jpg", 
-  ABOUT: "/p2.jpg", 
+  LOGO: logo, 
+  HERO: p1, 
+  ABOUT: p2, 
   PORTFOLIO: [
-    "/p3.jpg",
-    "/p4.jpg",
-    "/p5.jpg",
-    "/p6.jpg",
-    "/p7.jpg",
-    "/p8.jpg",
-    "/p9.jpg",
-    "/p10.jpg",
-    "/p11.jpg",
-    "/p12.jpg",
-    "/p13.jpg",
-    "/p14.jpg",
-    "/p15.jpg",
-    "/p16.jpg",
+    p3,
+    p4,
+    p5,
+    p6,
+    p7,
+    p8,
+    p9,
+    p10,
+    p11,
+    p12,
+    p13,
+    p14,
+    p15,
+    p16,
   ],
 };
 
